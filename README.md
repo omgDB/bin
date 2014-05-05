@@ -2,4 +2,4 @@
 
 ## Description
 
-Repository for all things Open Music Project
+Repository for all things Open Music Genome.
